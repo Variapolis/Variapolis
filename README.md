@@ -1,5 +1,5 @@
 <h1 align="center">I'm Sam</h1>
-<h3 align="center">A Game Dev student with professional experience in C# and knowledge in Python and C++.</h3>
+<h3 align="center">A Software and Game Dev with professional experience in C# and knowledge in Python and C++.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=variapolis&label=Profile%20views&color=0e75b6&style=flat" alt="variapolis" /> </p>
 

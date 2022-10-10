@@ -17,7 +17,7 @@ and C++.</h3>
 - My portfolio: [https://variapolis.wixsite.com/personal](https://variapolis.wixsite.com/personal)
 
 - 💬 Ask me about **Unity, C# or Game Dev/Industry topics and news! I love to talk about space travel too.**
-- ⚡ Fun fact: **I have<span style="color: #6b96b5">Hetero</span><span style="color:#a66868 ">chromia</span>.**
+- ⚡ Fun fact: **I have Heterochromia.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

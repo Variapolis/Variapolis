@@ -8,7 +8,7 @@ and C++.</h3>
 
 - 🔭 I’m currently working on **A Stealth Game Project**
 
-- 🌱 I’m currently learning **C#, RagePluginHook, Python, and Unity.**
+- 🌱 I’m currently learning **Swift and AI in Games.**
 
 - 🤖 And as a side project, I'm also working on **A Telegram Bot**
 

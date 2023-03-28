@@ -10,9 +10,11 @@ and C++.</h3>
 
 - 🌱 I’m currently learning **Swift and AI in Games.**
 
-- 🤖 And as a side project, I'm also working on **A Telegram Bot**
+- 🤖 And as a side project, I'm also working on **my final university projects**
 
-- 🔧 I also like to make PRs to [Yobbin's Callouts Plugin for GTA V](https://github.com/YobB1n/YobbinCallouts)
+- 🔧 I've contributed to [Yobbin's Callouts Plugin for GTA V](https://github.com/YobB1n/YobbinCallouts), [SuperPlugins for GTA V](https://github.com/SuperPyroManiac/SuperPlugins)
+
+- ⚙ I've published my own [DamageTrackerFramework](https://www.lcpdfr.com/downloads/gta5mods/scripts/42767-damage-tracker-framework/) mod for GTA V
 
 - My portfolio: [https://variapolis.wixsite.com/personal](https://variapolis.wixsite.com/personal)
 

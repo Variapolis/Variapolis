@@ -16,7 +16,7 @@ and C++.</h3>
 
 - ⚙ I've published my own [DamageTrackerFramework](https://www.lcpdfr.com/downloads/gta5mods/scripts/42767-damage-tracker-framework/) mod for GTA V
 
-- My portfolio: [https://variapolis.wixsite.com/personal](https://variapolis.wixsite.com/personal)
+- My portfolio: [https://variapolis.wixsite.com/personal](https://variapolis.wixsite.com/portfolio)
 
 - 💬 Ask me about **Unity, C# or Game Dev/Industry topics and news! I love to talk about space travel too.**
 - ⚡ Fun fact: **I have Heterochromia.**
